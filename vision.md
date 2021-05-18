@@ -1,6 +1,6 @@
 # AIR Vision
 
-This file lists the currently ratified non-specific goals regarding the shape and utility of AIR.
+This file lists the currently ratified non-measurable goals regarding the shape and utility of AIR.
 
 |   # | Description |
 |----:|:------------|
