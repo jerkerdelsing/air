@@ -5,6 +5,9 @@ Each use case is described as (1) a name, (2) an overview and (3) a sequence of 
 Optionally, use cases can be accompanied by a [SysML Use Case Diagram](https://sysml.org/sysml-faq/what-is-use-case-diagram.html).
 Use cases should only be as specific as required to highlight how they relate to AIR.
 
+Each use case file has a name starting with three digits and a dash, as well as have the extension `.md`, which makes it a markdown file.
+An example file name could be `001-listing-service-registry-records.md`.
+
 ## Example
 
 ### Listing service registry records
